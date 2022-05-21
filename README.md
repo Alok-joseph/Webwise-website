@@ -21,3 +21,7 @@ Clone the project
 
 - [@Alok-joseph](https://github.com/Alok-joseph)
 
+
+- ## 🚀 About Me
+ I'm a Coder who designs
+
