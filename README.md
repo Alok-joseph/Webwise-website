@@ -1,5 +1,5 @@
 # Webwise-website[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAlok-joseph%2FWebwise-website)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAlok-joseph%2FWebwise-website)
-[![GitHub license](https://img.shields.io/github/license/Alok-joseph/Webwise-website)](https://github.com/Alok-joseph/Webwise-website/blob/main/LICENSE)[![GitHub stars](https://img.shields.io/github/stars/Alok-joseph/Webwise-website)](https://github.com/Alok-joseph/Webwise-website/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Alok-joseph/Webwise-website)](https://github.com/Alok-joseph/Webwise-website/blob/main/LICENSE)[![GitHub stars](https://img.shields.io/github/stars/Alok-joseph/Webwise-website)](https://github.com/Alok-joseph/Webwise-website/stargazers)[![GitHub issues](https://img.shields.io/github/issues/Alok-joseph/Webwise-website)](https://github.com/Alok-joseph/Webwise-website/issues)
 
 
 this is a webdevelopment agency website
