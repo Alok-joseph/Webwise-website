@@ -10,3 +10,11 @@ this is under MIT license so you can modify,update the  project
 
 this is the home page of the website
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Alok-joseph/studio/
+```
+
