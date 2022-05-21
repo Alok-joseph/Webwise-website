@@ -15,6 +15,9 @@ this is the home page of the website
 Clone the project
 
 ```bash
-  git clone https://github.com/Alok-joseph/studio/
+  git clone https://github.com/Alok-joseph/Webwise-website/
 ```
+## Authors
+
+- [@Alok-joseph](https://github.com/Alok-joseph)
 
